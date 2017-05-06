@@ -22,6 +22,8 @@ There is also the feelings layer. How do both sides feel because of what they pe
 
 The third layer of converations are internal dialogues on indentity. How does what happened reflect on who I am or think I am?
 
+With these layers, the conversations become less of "I am going to tell you something and you are going to receive it" into learning conversations. I need to understand you across multiple layers before making judgement calls.
+
 --- 
 Both of these frameworks have been very helpful, and I would like to spend more time understanding how they complement each other. 
 
