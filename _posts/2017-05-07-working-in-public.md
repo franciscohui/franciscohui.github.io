@@ -17,7 +17,7 @@ As someone that is not in the classroom, publishing my ideas has other side effe
 - **Room for new ideas:** Once a thought if externalized, I can continue refine it or make room for the next idea. Translating amorpheous ideas into words or images reveals new questions that still need to be considered.
 
 ### Show Your Work
-The book cover at the top is from [Show Your Work](#). It's a short read about ways to think about sharing your work. Some takeaways and nice reminders for me were: 
+The book cover at the top is from [Show Your Work](http://austinkleon.com/show-your-work). It's a short read about ways to think about sharing your work. Some takeaways and nice reminders for me were: 
 
 Reminders on why we should share:
 - You can't find your voice if you don't use it.
