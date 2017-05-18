@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Allows Design to be Productive?
+title: What Allows Designers to be Productive?
 ---
 
 At work today, the topic of productivity came up. What are the core practices that allow designers to be effective---user centered design.
