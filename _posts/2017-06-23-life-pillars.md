@@ -3,7 +3,7 @@ layout: post
 title: The Three Life Pillars
 ---
 
-A few years ago, I categorized the things that affect my life into 3 giant groups. The idea is that I could use these groups to see where stress and unpredictability was happening in my life. 
+A few years ago, I categorized the things that affect my life into three giant groups. The idea is that I could use these groups to see where stress and unpredictability was happening in my life. 
 
 The stress could come from work, family/friends, and health. 
 
